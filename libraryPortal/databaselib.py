@@ -2,10 +2,9 @@ import mysql.connector
 import datetime
 
 mydb = mysql.connector.connect(
-    host = 'localhost',
-    user = 'root',
-    passwd = '=[]-0p9o',
-    database = 'librarydb'
+    host = '',
+    user = '',
+    passwd = '',
 )
 
 mycursor = mydb.cursor()

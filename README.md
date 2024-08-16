@@ -4,11 +4,6 @@
 
 
 <h2>📷Project Screenshots</h2>
-![screenshot1](https://github.com/user-attachments/assets/cb2bc931-718e-4682-ac70-31e6615d096e)
-![screenshot2](https://github.com/user-attachments/assets/47173167-1e74-4ed7-84a1-11c0733f9e49)
-![screenshot3](https://github.com/user-attachments/assets/6207b5df-35aa-4fe0-b689-dfb193565877)
-![screenshot4](https://github.com/user-attachments/assets/6b497112-fcac-4cd5-a9d6-0d73c708efa6)
-![screenshot5](https://github.com/user-attachments/assets/c6b6e0e7-d241-43ec-a20d-9ce2cc0e5085)
 
 
 

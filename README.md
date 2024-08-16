@@ -2,11 +2,6 @@
 
 <p id="description">Mock application for a public school library portal where students can browse through books and borrow the book of interest. The user logs in the application and the menu guides them through the preferred course of action.</p>
 <h2>📷Project Screenshots</h2>
-![screenshot1](https://github.com/ChristosPekos/LibraryPortal/blob/e658c4ae6b1bbef0cc72c0daa56662f57b1b724e/images/screenshot1.png)
-![]()
-![]()
-![]()
-![]()
 
 
 <h2>🛠️ Installation Steps:</h2>
